@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post2s on 韩亮</title>
+    <link>http://localhost:1313/post2/</link>
+    <description>Recent content in Post2s on 韩亮</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Copyright 2018 of Liang Han</copyright>
+    <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/post2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>无人机教学</title>
+      <link>http://localhost:1313/post2/2018-02-06/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post2/2018-02-06/</guid>
+      <description> 课程简介 本实验室拥有非常完备的实验室设备。例如：Optitrack高精度三维运动捕捉系统、UWB超宽带定位系统、大疆无人机、法国Parrot无人机、Pixhawk开源飞控、开源无人机，半实物仿真平台以及各类自动化设备等，软硬件资源丰富。
+ Dobby 和 大疆精灵无人机    Parrot无人机 和 Pixhawk控制器   本实验室内可进行对无人机的试飞、调试：设置了布有安全防护网的试飞区域以及可在地面上调试飞机的装置。
+ 调试区，检修区，工作台   实验室内还配置测试平台，高性能电脑若干，用来进行对控制系统、地面站、定位系统等模块的软件开发；同时，还有专门用来组装、修理的工作区域，包括实验台、工具架、专业工具等。
+ 测试平台和地面站   </description>
+    </item>
+    
+  </channel>
+</rss>
