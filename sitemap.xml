@@ -13,8 +13,13 @@
   </url>
   
   <url>
+    <loc>https://chupengyu.coding.me/projects/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://chupengyu.coding.me/interests/</loc>
-    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,12 +28,22 @@
   </url>
   
   <url>
-    <loc>https://chupengyu.coding.me/post/markdown-%E8%AF%AD%E6%B3%95/</loc>
-    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+    <loc>https://chupengyu.coding.me/post2/%E5%A4%9A%E6%97%8B%E7%BF%BC%E6%97%A0%E4%BA%BA%E6%9C%BA/</loc>
+    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chupengyu.coding.me/post2/2018-02-06/</loc>
+    <loc>https://chupengyu.coding.me/post2/%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chupengyu.coding.me/post2/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chupengyu.coding.me/post/markdown-%E8%AF%AD%E6%B3%95/</loc>
     <lastmod>2018-02-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -51,7 +66,7 @@
   
   <url>
     <loc>https://chupengyu.coding.me/post2/</loc>
-    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

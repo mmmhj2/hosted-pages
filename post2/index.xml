@@ -7,21 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2018 of Liang Han</copyright>
-    <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chupengyu.coding.me/post2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>无人机教学</title>
-      <link>https://chupengyu.coding.me/post2/2018-02-06/</link>
-      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      <title>多旋翼无人机</title>
+      <link>https://chupengyu.coding.me/post2/%E5%A4%9A%E6%97%8B%E7%BF%BC%E6%97%A0%E4%BA%BA%E6%9C%BA/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chupengyu.coding.me/post2/2018-02-06/</guid>
-      <description> 课程简介 本实验室拥有非常完备的实验室设备。例如：Optitrack高精度三维运动捕捉系统、UWB超宽带定位系统、大疆无人机、法国Parrot无人机、Pixhawk开源飞控、开源无人机，半实物仿真平台以及各类自动化设备等，软硬件资源丰富。
- Dobby 和 大疆精灵无人机    Parrot无人机 和 Pixhawk控制器   本实验室内可进行对无人机的试飞、调试：设置了布有安全防护网的试飞区域以及可在地面上调试飞机的装置。
- 调试区，检修区，工作台   实验室内还配置测试平台，高性能电脑若干，用来进行对控制系统、地面站、定位系统等模块的软件开发；同时，还有专门用来组装、修理的工作区域，包括实验台、工具架、专业工具等。
- 测试平台和地面站   </description>
+      <guid>https://chupengyu.coding.me/post2/%E5%A4%9A%E6%97%8B%E7%BF%BC%E6%97%A0%E4%BA%BA%E6%9C%BA/</guid>
+      <description>课程简介 多旋翼无人机是一类可以垂直起降，空中悬停的小型无人机。它主要由动力系统，飞控系统，导航系统、通讯系统等几个部分组成。多旋翼无人机具有体积小、成本低、功能丰富、结构简单、可扩展性强等优点，是一类适用于高校本科生、研究生学习数学建模，飞行控制，系统辨识，数字滤波，嵌入式等知识内容的实验平台。
+课程通过对多旋翼无人机系统进行建模与仿真，设计飞行控制器，搭建软硬件平台，验证最终飞行效果。本课程教学由理论与实验教学两部分构成，其中理论部分主要介绍多旋翼无人机各组成部分的基本原理，实验部分主要通过多旋翼无人机开展控制类实验教学工作。
+韩亮老师自主开发了多种用于教学的实验内容，其中包括悬停控制实验，多无人机编队控制实验，无人机避障实验，视觉定位实验等。课程形式新颖。
+ 多无人机室内编队教学实验     人机室内避障教学实验    实践内容丰富，充分锻炼了学生的实践能力，获得了学生的一致好评。本课程的教学实践内容已多次向国内高校，国外高校以及多家企业进行了展示，获得了高度的评价。</description>
+    </item>
+    
+    <item>
+      <title>工业科学</title>
+      <link>https://chupengyu.coding.me/post2/%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chupengyu.coding.me/post2/%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6/</guid>
+      <description> 课程简介 课程特色 </description>
+    </item>
+    
+    <item>
+      <title>智能机器人</title>
+      <link>https://chupengyu.coding.me/post2/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chupengyu.coding.me/post2/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA/</guid>
+      <description> 课程简介 自动控制系统是工业系统的重要组成部分，自动控制原理及自动控制系统的设计和实现是通用工程师必备的基本能力之一。本课程基于LEGO Mindstorm EV3机器人，通过实现对机器人的建模和仿真分析，计算机控制机器人速度和位移，自动避障等理论和实践环节，掌握和实际工业控制系统内容相关的基础理论和实践知识，弥补学生的工程能力不足问题。本课程教学由理论
+教学和实践教学两部分组成。理论部分侧重于经典和现代控制理论原理和计算机控制实现方法的学习，实践教学则以LEGO机器人系统为对象开展教学工作。
+课程特色  </description>
     </item>
     
   </channel>
