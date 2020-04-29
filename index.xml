@@ -1,30 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>首页 on 韩亮</title>
-    <link>https://hapface.coding.me/</link>
+    <link>https://rk35ct.coding-pages.com/</link>
     <description>Recent content in 首页 on 韩亮</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© Copyright 2018 of Liang Han</copyright>
+    <copyright>Copyright 2018 of Liang Han</copyright>
     <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hapface.coding.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rk35ct.coding-pages.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>个人简介</title>
-      <link>https://hapface.coding.me/backgroud/</link>
+      <link>https://rk35ct.coding-pages.com/backgroud/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://hapface.coding.me/backgroud/</guid>
-      <description>教育背景 2017.03 北京航空航天大学自动化科学与电气工程学院博士毕业
+      <guid>https://rk35ct.coding-pages.com/backgroud/</guid>
+      <description>教育背景 2017.03	北京航空航天大学自动化科学与电气工程学院博士毕业
 工作经历 2018.01 - 至今 北京航空航天大学中法工程师学院科研助理
 2017.12 - 至今 北京市卓越工程师联盟副秘书长
-2017.03 - 至今 北京航空航天大学中法工程师学院讲师
+2017.05 - 至今 北京航空航天大学中法无人机实验室负责人
+2017.03 - 至今 北京航空航天大学中法工程师学院教师
 2013.09 - 2014.09 美国密歇根大学航天工程学院研究学者
-主讲课程 工业科学、无人机、智能机器人
-研究方向  导航、制导与控制 多无人机编队控制 目标定位跟踪技术 人工智能（集群智能技术）  奖励荣誉  全国高校智能硬件创新创业大赛 全国冠军 北京航空航天大学2017年度优秀学术论文  学术工作 北京市卓越工程师培养计划高校联盟 副秘书长
+主讲课程 无人机、智能机器人、工业科学
+研究方向  多飞行器集群智能 无人机导航与控制 视觉与目标跟踪 人工智能应用（强化学习、对抗学习） 大规模分布式仿真  奖励荣誉  北京航空航天大学青年拔尖人才 全国高校智能硬件创新创业大赛 全国冠军 北京航空航天大学2017年度优秀学术论文  学术工作 北京市卓越工程师培养计划高校联盟 副秘书长
 中国工业与应用数学学会 会员
 IEEE Member
 Aerospace Science and Technology等期刊审稿人
@@ -37,104 +38,117 @@ American Control Conference等会议审稿人
     
     <item>
       <title>科研成果</title>
-      <link>https://hapface.coding.me/projects/</link>
+      <link>https://rk35ct.coding-pages.com/projects/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://hapface.coding.me/projects/</guid>
-      <description>科研项目 纵向科研项目 （1）多无人机编队跟踪控制技术及应用研究（自然基金项目）
-（2）多飞行器协同制导控制理论与方法研究(自然基金重点项目)
-（3）多机器人系统协同群集运动控制方法研究（装备预研项目）
-（4）飞行器鲁棒自适应控制技术研究(航天类重点项目)
-（5）多约束多飞行器协同控制方法研究（航天类基金项目）
-（6）有人/无人机混合协同编队技术研究（航空类基金项目）
+      <guid>https://rk35ct.coding-pages.com/projects/</guid>
+      <description>科研项目 纵向科研项目 （1）多无人机编队跟踪控制技术及应用研究（国家自然基金）
+（2）多飞行器协同制导控制理论与方法研究 (国家自然基金重点项目)
+（3）基于虚拟连挂的多车动态编队控制方法研究（北京市自然基金）
+（4）多机器人系统协同群集运动控制方法研究（装备预研项目）
+（5）飞行器鲁棒自适应控制技术研究 (航天类重点项目)
+（6）面向机动目标的多飞行器协同跟踪控制方法研究（航天类基金项目）
+（7）基于神经网络的有人/无人机编队控制技术研究（航空类基金项目）
 横向科研项目 （1）航天器姿态控制平台
 （2）航天器数据管理与分析平台
-（3）无人机一体化平台
-（4）催泪弹警用无人机
-（5）多无人机协同控制平台
-（6）导航定位跟踪平台
-论文发表  Liang Han, Xiwang Dong, Qingdong Li, etc. Distributed Formation Control for Multi-UAV system with commutation delay and switching topology, Aerospace Science and Technology, 2018. (Under Review, SCI)
- Liang Han, Xiwang Dong, Qingdong Li, etc. Distributed Formation Tracking Control for Second-order MAS with Multiple Leaders and Communication Delays, Asian Journal of Control, 2018.</description>
+（3）催泪弹警用无人机
+（4）自动狙击机器人平台
+（5）多小型四旋翼编队控制平台
+（6）基于UWB的多无人车协同控制平台
+ 论文发表   Liang Han, Xiwang Dong, Qingdong Li, etc. Distributed Formation Control for Multi-UAV system with commutation delay and switching topology, Aerospace Science and Technology, 2018. (Under Review, SCI)
+  Liang Han, Xiwang Dong, Qingdong Li, etc. Distributed Formation Tracking Control for Second-order MAS with Multiple Leaders and Communication Delays, Asian Journal of Control, 2018.</description>
     </item>
     
     <item>
       <title>应用成果</title>
-      <link>https://hapface.coding.me/application/</link>
+      <link>https://rk35ct.coding-pages.com/application/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://hapface.coding.me/application/</guid>
-      <description>成果展示                                                                 实验视频 基于视觉的编队控制实验    To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video</description>
+      <guid>https://rk35ct.coding-pages.com/application/</guid>
+      <description>成果展示              &amp;lt;img src=&amp;rdquo;/media/pic/%e6%97%a0%e4%ba%ba%e6%9c%ba1.jpg&amp;rdquo;    alt=&amp;quot;图1&amp;rdquo;/&amp;gt;     </description>
     </item>
     
     <item>
       <title>相关资料</title>
-      <link>https://hapface.coding.me/ref_documents/</link>
+      <link>https://rk35ct.coding-pages.com/ref_documents/</link>
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://hapface.coding.me/ref_documents/</guid>
-      <description> 北航中法-韩亮-无人机课程与实验室介绍.pdf 北航中法-韩亮-Latex入门简介.pdf LaTeX3红宝书.zip 简历Latex模板.zip Latex符号对应表.pdf Latex经典学习手册.zip 会议报告Latex模板.rar 清华大学作业Latex模板.zip UC伯克利官方信件Latex模板.zip TexLive2017安装及使用指南.pdf 自然科学基金申请书Latex模板.zip 北航中法生产实习报告Latex模板.rar 北京航空航天大学毕业论文Latex模板.zip  </description>
-    </item>
-    
-    <item>
-      <title>中法无人机实验室</title>
-      <link>https://hapface.coding.me/lab/</link>
-      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://hapface.coding.me/lab/</guid>
-      <description>中法无人机综合技术实验室，是在中法工程师学院大力支持下创立的工业科学实验室。实验室负责人是韩亮老师。
-欢迎具有数学、控制、工业科学等相关专业背景的同学报读实验室的研究生。同时，实验室长期面向本科生提供创新类课题，欢迎大家积极参与。 实验室主要研究方向：
- 导航、制导与控制 多无人机编队控制 视觉与目标跟踪技术 人工智能（群体智能技术）  实验室拥有非常完备的设备。例如：Optitrack高精度三维运动捕捉系统、UWB超宽带定位系统、大疆无人机、法国Parrot无人机、各种类型的小型无人机50余架，Pixhawk开源飞控、地面控制终端，飞行控制系统，组网通信系统、视觉定位系统与虚拟现实仿真系统等软硬件设备，软硬件资源丰富。
- 实验设备 无人机设备 本实验室拥有非常完备的实验室设备。例如：Optitrack高精度三维运动捕捉系统、UWB超宽带定位系统、大疆无人机、法国Parrot无人机、Pixhawk开源飞控、开源无人机，半实物仿真平台以及各类自动化设备等，软硬件资源丰富。
-  Dobby 和 大疆精灵无人机     Parrot无人机 和 Pixhawk控制器                                       本实验室内可进行无人机试飞与调试，设置了布有安全防护网的试飞区域以及可在地面上调试飞机的装置。实验室内还配置测试平台，高性能电脑若干，用来进行对控制系统、地面站、定位系统等模块的软件开发；同时，还有专门用来组装、修理的工作区域，包括实验台、工具架、专业工具等。
-四旋翼无人机编队飞行控制实验平台 该系统可通过运动捕捉系统进行室内定位，获得多架四旋翼无人机的相对位置。可通过Matlab来进行控制器的设计。该平台可用于自动控制，编队控制，系统建模，滤波，室内定位等无人机知识的学习与训练。
-  实验室全景   本实验室现拟招收对无人机技术或人工智能技术感兴趣的高年级本科生或研究生进入实验室学习并参与科学研究。</description>
-    </item>
-    
-    <item>
-      <title>多旋翼无人机</title>
-      <link>https://hapface.coding.me/post2/%E5%A4%9A%E6%97%8B%E7%BF%BC%E6%97%A0%E4%BA%BA%E6%9C%BA/</link>
-      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://hapface.coding.me/post2/%E5%A4%9A%E6%97%8B%E7%BF%BC%E6%97%A0%E4%BA%BA%E6%9C%BA/</guid>
-      <description>课程简介 多旋翼无人机是一类可以垂直起降，空中悬停的小型无人机。它主要由动力系统，飞控系统，导航系统、通讯系统等几个部分组成。多旋翼无人机具有体积小、成本低、功能丰富、结构简单、可扩展性强等优点，是一类适用于高校本科生、研究生学习数学建模，飞行控制，系统辨识，数字滤波，嵌入式等知识内容的实验平台。
-课程通过对多旋翼无人机系统进行建模与仿真，设计飞行控制器，搭建软硬件平台，验证最终飞行效果。本课程教学由理论与实验教学两部分构成，其中理论部分主要介绍多旋翼无人机各组成部分的基本原理，实验部分主要通过多旋翼无人机开展控制类实验教学工作。
-韩亮老师自主开发了多种用于教学的实验内容，其中包括悬停控制实验，多无人机编队控制实验，无人机避障实验，视觉定位实验等。课程形式新颖。
-            多无人机室内编队教学实验1        多无人机室内编队教学实验2          无人机室内避障教学实验        多无人机室内定位教学实验        实践内容丰富，充分锻炼了学生的实践能力，获得了学生的一致好评。本课程的教学实践内容已多次向国内高校，国外高校以及多家企业进行了展示，获得了高度的评价。</description>
-    </item>
-    
-    <item>
-      <title>工业科学</title>
-      <link>https://hapface.coding.me/post2/%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6/</link>
-      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://hapface.coding.me/post2/%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6/</guid>
-      <description> 课程简介 ​ 北京航空航天大学中法工程师学院，是在中法两国政府的鼎力支持下，由北京航空航天大学与法国中央理工大学集团合作创建。法国的高等工程师教育具有鲜明特点，在国际上享有极高的声誉，其在人才培养模式、教育理念和教育方法、学科专业设置等方面都有很多独到的地方。工业科学课程是工程师学位培养的特色课程，具有多学科交叉综合的特点，重点培养和提高学生分析和解决复杂问题的能力，包括信息获取和筛选能力、综合分析能力、设计和创新能力以及实践动手能力等，具有很强的综合性、设计性和创新性。工业科学实验课程的教学设备一般直接取自工业生产或消费领域的实际系统或简化后的系统。学生需要综合运用所学知识和技能，针对客户需求进行分析，提炼出一般性科学问题，完成方案设计、数学建模及仿真、实际操控，最后将需求、仿真结果和实际结果比较分析，给出相关结论。
-课程特色 飞行观测控制实验系统  功能描述：飞行器观测平台控制系统是模拟飞行员头部视角，并监测飞机姿态，实现观测摄像平台随飞行员头部姿态变化随时调节的功能。整个系统由姿态感知系统、调节系统组成。是典型的机电一体化系统。 涉及专业：传感器、计算机、控制、图像处理                      无人机控制教学实验平台 实验平台支持手动控制与自动控制。通过设计控制器来实现无人机的姿态控制。实验平台可用于系统建模，自动控制等知识的学习与训练。
-  法国NAO机器人 法国Aldebaran公司的仿生机器人，机器人具有27个自由度，能够实现拟人行走、发声、障碍识别、复杂动作行为、互动交流等项目。机器人涉及领域多样，包括控制、计算机、软件、传感器、机械等。
-  天文望远镜控制系统教学实验平台 通过Arduino Mega单片机来控制望远镜，可以用于建模，滤波，系统辨识，图像处理等知识的学习和训练。
+      <guid>https://rk35ct.coding-pages.com/ref_documents/</guid>
+      <description> 论文资料   北航中法-韩亮-Latex入门简介.pdf
+  Latex符号对应表.pdf
+  Latex经典学习手册.zip
+   毕设资料   2018年本科毕设题目
+  2017年本科毕设题目
+  无人机集群智能技术资料
+  无人机导航定位技术资料
+   创新课题   法国奥林匹克工程科学竞赛介绍
+  创新项目-基于视觉的多无人机编队控制系统应用
+  创新项目-基于GPS的多无人机协同控制系统应用
+  创新项目-基于树莓派与乐高的协同控制技术应用
+  创新项目-基于UWB的多无人车协同控制应用
+  创新项目-基于神经臂环的自动控制技术研究
+  创新项目-基于体感手套的自动控制技术研究
+  创新项目-小型激光雷达视觉技术研究与应用
+  创新项目-多摄像头目标跟踪技术研究与应用
+  创项项目-无人机/无人车虚拟仿真应用平台开发
   </description>
     </item>
     
     <item>
-      <title>智能机器人</title>
-      <link>https://hapface.coding.me/post2/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
+      <title>无人机实验室</title>
+      <link>https://rk35ct.coding-pages.com/lab/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rk35ct.coding-pages.com/lab/</guid>
+      <description> 中法无人机综合技术实验室，是在中法工程师学院大力支持下创立的工业科学实验室。
+欢迎具有数学、控制、工业科学等相关专业背景的同学报读实验室的研究生。实验室长期面向本科生、研究生提供创新类课题，欢迎大家积极参与。实验室主要研究方向：
+  多飞行器集群智能
+  无人机导航与控制
+  视觉与目标跟踪
+  人工智能应用（强化学习、对抗学习）
+  大规模分布式仿真
+    实验设备 无人机设备 本实验室拥有非常完备的实验室设备。例如：Optitrack高精度三维运动捕捉系统、UWB超宽带定位系统、大疆无人机、法国Parrot无人机、Pixhawk开源飞控、开源无人机，半实物仿真平台以及各类自动化设备等，软硬件资源丰富。
+| 本实验室内可进行无人机试飞与调试，设置了布有安全防护网的试飞区域以及可在地面上调试飞机的装置。实验室内还配置测试平台，高性能电脑若干，用来进行对控制系统、地面站、定位系统等模块的软件开发；同时，还有专门用来组装、修理的工作区域，包括实验台、工具架、专业工具等。
+四旋翼无人机编队飞行控制实验平台 该系统可通过运动捕捉系统进行室内定位，获得多架四旋翼无人机的相对位置。可通过Matlab来进行控制器的设计。该平台可用于自动控制，编队控制，系统建模，滤波，室内定位等无人机知识的学习与训练。
+ 实验室全景   本实验室现招收对飞行器技术或人工智能技术感兴趣的高年级本科生或研究生进入实验室学习并参与科研项目。
+  欢迎各位同学加入我们的实验室！
+ </description>
+    </item>
+    
+    <item>
+      <title>多旋翼无人机</title>
+      <link>https://rk35ct.coding-pages.com/post2/%E5%A4%9A%E6%97%8B%E7%BF%BC%E6%97%A0%E4%BA%BA%E6%9C%BA/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rk35ct.coding-pages.com/post2/%E5%A4%9A%E6%97%8B%E7%BF%BC%E6%97%A0%E4%BA%BA%E6%9C%BA/</guid>
+      <description>多旋翼无人机是一类可以垂直起降，空中悬停的小型无人机。它主要由动力系统，飞控系统，导航系统、通讯系统等几个部分组成。多旋翼无人机具有体积小、成本低、功能丰富、结构简单、可扩展性强等优点，是一类适用于高校本科生、研究生学习数学建模，飞行控制，系统辨识，数字滤波，嵌入式等知识内容的实验平台。</description>
+    </item>
+    
+    <item>
+      <title>工业科学</title>
+      <link>https://rk35ct.coding-pages.com/post2/%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://hapface.coding.me/post2/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA/</guid>
-      <description> 课程简介 自动控制系统是工业系统的重要组成部分，自动控制原理及自动控制系统的设计和实现是通用工程师必备的基本能力之一。本课程基于LEGO Mindstorm EV3机器人，通过实现对机器人的建模和仿真分析，计算机控制机器人速度和位移，自动避障等理论和实践环节，掌握和实际工业控制系统内容相关的基础理论和实践知识，弥补学生的工程能力不足问题。
-本课程教学由理论教学和实践教学两部分组成。理论部分侧重于经典和现代控制理论原理和计算机控制实现方法的学习，实践教学则以LEGO机器人系统为对象开展教学工作。
-课程特色                     </description>
+      <guid>https://rk35ct.coding-pages.com/post2/%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6/</guid>
+      <description>工业科学课程是工程师学位培养的特色课程，具有多学科交叉综合的特点，重点培养和提高学生分析和解决复杂问题的能力，包括信息获取和筛选能力、综合分析能力、设计和创新能力以及实践动手能力等，具有很强的综合性、设计性和创新性。工业科学实验课程的教学设备一般直接取自工业生产或消费领域的实际系统或简化后的系统。</description>
+    </item>
+    
+    <item>
+      <title>智能机器人</title>
+      <link>https://rk35ct.coding-pages.com/post2/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rk35ct.coding-pages.com/post2/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA/</guid>
+      <description>本课程基于LEGO Mindstorm EV3机器人，通过实现对机器人的建模和仿真分析，计算机控制机器人速度和位移，自动避障等理论和实践环节，掌握和实际工业控制系统内容相关的基础理论和实践知识，弥补学生的工程能力不足问题。</description>
     </item>
     
     <item>
       <title>Markdown 语法</title>
-      <link>https://hapface.coding.me/post/markdown-%E8%AF%AD%E6%B3%95/</link>
+      <link>https://rk35ct.coding-pages.com/post/markdown-%E8%AF%AD%E6%B3%95/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://hapface.coding.me/post/markdown-%E8%AF%AD%E6%B3%95/</guid>
-      <description>&lt;p&gt;这篇文章集中说明本人博客主题所支持的 Markdown 语法和 Hugo Shortcodes 插件，你也可以在这里预览到他们的样子。如果你不喜欢某些部分的样式，可以去修改 &lt;code&gt;content.scss&lt;/code&gt; 和 &lt;code&gt;shortcodes.scss&lt;/code&gt; 这两个文件。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>https://rk35ct.coding-pages.com/post/markdown-%E8%AF%AD%E6%B3%95/</guid>
+      <description>&lt;p&gt;这篇文章集中说明本人博客主题所支持的 Markdown 语法和 Hugo Shortcodes 插件，你也可以在这里预览到他们的样子。如果你不喜欢某些部分的样式，可以去修改 &lt;code&gt;content.scss&lt;/code&gt; 和 &lt;code&gt;shortcodes.scss&lt;/code&gt; 这两个文件。&lt;/p&gt;</description>
     </item>
     
   </channel>
