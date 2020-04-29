@@ -65,7 +65,7 @@ American Control Conference等会议审稿人
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rk35ct.coding-pages.com/application/</guid>
-      <description>成果展示              &amp;lt;img src=&amp;rdquo;/media/pic/%e6%97%a0%e4%ba%ba%e6%9c%ba1.jpg&amp;rdquo;    alt=&amp;quot;图1&amp;rdquo;/&amp;gt;     </description>
+      <description>成果展示                                                           </description>
     </item>
     
     <item>
@@ -100,7 +100,7 @@ American Control Conference等会议审稿人
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rk35ct.coding-pages.com/lab/</guid>
-      <description> 中法无人机综合技术实验室，是在中法工程师学院大力支持下创立的工业科学实验室。
+      <description>中法无人机综合技术实验室，是在中法工程师学院大力支持下创立的工业科学实验室。
 欢迎具有数学、控制、工业科学等相关专业背景的同学报读实验室的研究生。实验室长期面向本科生、研究生提供创新类课题，欢迎大家积极参与。实验室主要研究方向：
   多飞行器集群智能
   无人机导航与控制
@@ -108,11 +108,16 @@ American Control Conference等会议审稿人
   人工智能应用（强化学习、对抗学习）
   大规模分布式仿真
     实验设备 无人机设备 本实验室拥有非常完备的实验室设备。例如：Optitrack高精度三维运动捕捉系统、UWB超宽带定位系统、大疆无人机、法国Parrot无人机、Pixhawk开源飞控、开源无人机，半实物仿真平台以及各类自动化设备等，软硬件资源丰富。
-| 本实验室内可进行无人机试飞与调试，设置了布有安全防护网的试飞区域以及可在地面上调试飞机的装置。实验室内还配置测试平台，高性能电脑若干，用来进行对控制系统、地面站、定位系统等模块的软件开发；同时，还有专门用来组装、修理的工作区域，包括实验台、工具架、专业工具等。
-四旋翼无人机编队飞行控制实验平台 该系统可通过运动捕捉系统进行室内定位，获得多架四旋翼无人机的相对位置。可通过Matlab来进行控制器的设计。该平台可用于自动控制，编队控制，系统建模，滤波，室内定位等无人机知识的学习与训练。
- 实验室全景   本实验室现招收对飞行器技术或人工智能技术感兴趣的高年级本科生或研究生进入实验室学习并参与科研项目。
-  欢迎各位同学加入我们的实验室！
- </description>
+  Dobby 和 大疆精灵无人机     Parrot无人机 和 Pixhawk控制器                                 本实验室内可进行无人机试飞与调试，设置了布有安全防护网的试飞区域以及可在地面上调试飞机的装置。实验室内还配置测试平台，高性能电脑若干，用来进行对控制系统、地面站、定位系统等模块的软件开发；同时，还有专门用来组装、修理的工作区域，包括实验台、工具架、专业工具等。</description>
+    </item>
+    
+    <item>
+      <title>多旋翼无人机</title>
+      <link>https://rk35ct.coding-pages.com/post/%E5%A4%9A%E6%97%8B%E7%BF%BC%E6%97%A0%E4%BA%BA%E6%9C%BA/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rk35ct.coding-pages.com/post/%E5%A4%9A%E6%97%8B%E7%BF%BC%E6%97%A0%E4%BA%BA%E6%9C%BA/</guid>
+      <description>多旋翼无人机是一类可以垂直起降，空中悬停的小型无人机。它主要由动力系统，飞控系统，导航系统、通讯系统等几个部分组成。多旋翼无人机具有体积小、成本低、功能丰富、结构简单、可扩展性强等优点，是一类适用于高校本科生、研究生学习数学建模，飞行控制，系统辨识，数字滤波，嵌入式等知识内容的实验平台。</description>
     </item>
     
     <item>
@@ -126,6 +131,15 @@ American Control Conference等会议审稿人
     
     <item>
       <title>工业科学</title>
+      <link>https://rk35ct.coding-pages.com/post/%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rk35ct.coding-pages.com/post/%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6/</guid>
+      <description>工业科学课程是工程师学位培养的特色课程，具有多学科交叉综合的特点，重点培养和提高学生分析和解决复杂问题的能力，包括信息获取和筛选能力、综合分析能力、设计和创新能力以及实践动手能力等，具有很强的综合性、设计性和创新性。工业科学实验课程的教学设备一般直接取自工业生产或消费领域的实际系统或简化后的系统。</description>
+    </item>
+    
+    <item>
+      <title>工业科学</title>
       <link>https://rk35ct.coding-pages.com/post2/%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
@@ -135,20 +149,20 @@ American Control Conference等会议审稿人
     
     <item>
       <title>智能机器人</title>
+      <link>https://rk35ct.coding-pages.com/post/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rk35ct.coding-pages.com/post/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA/</guid>
+      <description>本课程基于LEGO Mindstorm EV3机器人，通过实现对机器人的建模和仿真分析，计算机控制机器人速度和位移，自动避障等理论和实践环节，掌握和实际工业控制系统内容相关的基础理论和实践知识，弥补学生的工程能力不足问题。</description>
+    </item>
+    
+    <item>
+      <title>智能机器人</title>
       <link>https://rk35ct.coding-pages.com/post2/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rk35ct.coding-pages.com/post2/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA/</guid>
       <description>本课程基于LEGO Mindstorm EV3机器人，通过实现对机器人的建模和仿真分析，计算机控制机器人速度和位移，自动避障等理论和实践环节，掌握和实际工业控制系统内容相关的基础理论和实践知识，弥补学生的工程能力不足问题。</description>
-    </item>
-    
-    <item>
-      <title>Markdown 语法</title>
-      <link>https://rk35ct.coding-pages.com/post/markdown-%E8%AF%AD%E6%B3%95/</link>
-      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rk35ct.coding-pages.com/post/markdown-%E8%AF%AD%E6%B3%95/</guid>
-      <description>&lt;p&gt;这篇文章集中说明本人博客主题所支持的 Markdown 语法和 Hugo Shortcodes 插件，你也可以在这里预览到他们的样子。如果你不喜欢某些部分的样式，可以去修改 &lt;code&gt;content.scss&lt;/code&gt; 和 &lt;code&gt;shortcodes.scss&lt;/code&gt; 这两个文件。&lt;/p&gt;</description>
     </item>
     
   </channel>

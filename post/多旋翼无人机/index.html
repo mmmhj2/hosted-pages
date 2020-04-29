@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8" />
+
+  
+  <title>多旋翼无人机</title>
+
+  
+  
+
+
+
+
+
+  
+  <meta name="author" content="韩亮" />
+  <meta name="description" content="多旋翼无人机是一类可以垂直起降，空中悬停的小型无人机。它主要由动力系统，飞控系统，导航系统、通讯系统等几个部分组成。多旋翼无人机具有体积小、成本低、功能丰富、结构简单、可扩展性强等优点，是一类适用于高校本科生、研究生学习数学建模，飞行控制，系统辨识，数字滤波，嵌入式等知识内容的实验平台。" />
+
+  
+  
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@gohugoio" />
+    <meta name="twitter:title" content="多旋翼无人机" />
+    <meta name="twitter:description" content="多旋翼无人机是一类可以垂直起降，空中悬停的小型无人机。它主要由动力系统，飞控系统，导航系统、通讯系统等几个部分组成。多旋翼无人机具有体积小、成本低、功能丰富、结构简单、可扩展性强等优点，是一类适用于高校本科生、研究生学习数学建模，飞行控制，系统辨识，数字滤波，嵌入式等知识内容的实验平台。" />
+    <meta name="twitter:image" content="https://rk35ct.coding-pages.com/img/avatar.jpg" />
+  
+
+  
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="多旋翼无人机" />
+  <meta property="og:description" content="多旋翼无人机是一类可以垂直起降，空中悬停的小型无人机。它主要由动力系统，飞控系统，导航系统、通讯系统等几个部分组成。多旋翼无人机具有体积小、成本低、功能丰富、结构简单、可扩展性强等优点，是一类适用于高校本科生、研究生学习数学建模，飞行控制，系统辨识，数字滤波，嵌入式等知识内容的实验平台。" />
+  <meta property="og:url" content="https://rk35ct.coding-pages.com/post/%E5%A4%9A%E6%97%8B%E7%BF%BC%E6%97%A0%E4%BA%BA%E6%9C%BA/" />
+  <meta property="og:image" content="https://rk35ct.coding-pages.com/img/avatar.jpg" />
+
+
+
+
+<meta name="generator" content="Hugo 0.69.2" />
+
+
+<link rel="canonical" href="https://rk35ct.coding-pages.com/post/%E5%A4%9A%E6%97%8B%E7%BF%BC%E6%97%A0%E4%BA%BA%E6%9C%BA/" />
+<link rel="alternative" href="https://rk35ct.coding-pages.com/index.xml" title="韩亮" type="application/atom+xml" />
+
+
+<meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="format-detection" content="telephone=no,email=no,adress=no" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+
+
+<meta name="robots" content="index,follow" />
+<meta name="referrer" content="origin-when-cross-origin" />
+
+
+
+
+
+
+
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="韩亮" />
+<meta name="msapplication-tooltip" content="韩亮" />
+<meta name='msapplication-navbutton-color' content="#5fbf5e" />
+<meta name="msapplication-TileColor" content="#5fbf5e" />
+<meta name="msapplication-TileImage" content="/img/tile-image-windows.png" />
+<link rel="icon" href="https://rk35ct.coding-pages.com/img/favicon.ico" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://rk35ct.coding-pages.com/img/favicon-16x16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://rk35ct.coding-pages.com/img/favicon-32x32.png" />
+<link rel="icon" sizes="192x192" href="https://rk35ct.coding-pages.com/img/touch-icon-android.png" />
+<link rel="apple-touch-icon" href="https://rk35ct.coding-pages.com/img/touch-icon-apple.png" />
+<link rel="mask-icon" href="https://rk35ct.coding-pages.com/img/safari-pinned-tab.svg" color="#5fbf5e" />
+
+
+
+<link rel="stylesheet" href="//cdn.bootcss.com/video.js/6.2.8/alt/video-js-cdn.min.css" />
+
+<link rel="stylesheet" href="https://rk35ct.coding-pages.com/css/bundle.css" />
+
+
+  
+  <!--[if lt IE 9]>
+    <script src="//cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <script src="//cdn.bootcss.com/video.js/6.2.8/ie8/videojs-ie8.min.js"></script>
+  <![endif]-->
+
+<!--[if lte IE 11]>
+    <script src="//cdn.bootcss.com/classlist/1.1.20170427/classList.min.js"></script>
+  <![endif]-->
+
+
+<script src="//cdn.bootcss.com/object-fit-images/3.2.3/ofi.min.js"></script>
+
+
+<script src="//cdn.bootcss.com/smooth-scroll/12.1.4/js/smooth-scroll.polyfills.min.js"></script>
+
+
+</head>
+  <body>
+    
+    <div class="suspension">
+      <a title="Go to top" class="to-top is-hide"><span class="icon icon-up"></span></a>
+      
+        
+      
+    </div>
+    
+    
+  <header class="site-header">
+  <img class="avatar" src="https://rk35ct.coding-pages.com/img/avatar.png" alt="Avatar">
+  
+  <h2 class="title">韩亮</h2>
+  
+  <p class="subtitle">硕士生导师</p>
+  <button class="menu-toggle" type="button">
+    <span class="icon icon-menu"></span>
+  </button>
+  <nav class="site-menu collapsed" style="overflow-y: auto; height:50%; overflow-x: hidden;">
+    <h2 class="offscreen">Main Menu</h2>
+    <ul class="menu-list" >
+      
+      
+      
+      
+        <li class="menu-item
+            
+            
+            
+            ">
+            <a href="https://rk35ct.coding-pages.com/">首页</a>
+          </li>
+      
+        <li class="menu-item
+            
+            
+            
+            ">
+            <a href="https://rk35ct.coding-pages.com/backgroud/">个人简介</a>
+          </li>
+      
+        <li class="menu-item
+            
+            
+            
+            ">
+            <a href="https://rk35ct.coding-pages.com/projects/">科研成果</a>
+          </li>
+      
+        <li class="menu-item
+            
+            
+            
+            ">
+            <a href="https://rk35ct.coding-pages.com/application/">应用成果</a>
+          </li>
+      
+        <li class="menu-item
+            
+            
+            
+              is-active
+            
+            ">
+            <a href="https://rk35ct.coding-pages.com/post">主讲课程</a>
+          </li>
+      
+        <li class="menu-item
+            
+            
+            
+            ">
+            <a href="https://rk35ct.coding-pages.com/lab/">无人机实验室</a>
+          </li>
+      
+        <li class="menu-item
+            
+            
+            
+            ">
+            <a href="https://rk35ct.coding-pages.com/ref_documents/">相关资料</a>
+          </li>
+      
+    </ul>
+  </nav>
+  <nav class="social-menu collapsed">
+    <h2 class="offscreen">Social Networks</h2>
+    <ul class="social-list">
+
+      
+      <li class="social-item">
+        <a href="mailto:liang_han@buaa.edu.cn" title="Email"><span class="icon icon-email"></span></a>
+      </li>
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <li class="social-item">
+        <a href="https://rk35ct.coding-pages.com/index.xml"><span class="icon icon-rss" title="RSS"></span></a>
+      </li>
+
+    </ul>
+  </nav>
+</header>
+
+  <section class="main post-detail">
+    <header class="post-header">
+      <h1 class="post-title">多旋翼无人机</h1>
+      <p class="post-meta">@韩亮 · May 29, 2018 · 1 min read</p>
+    </header>
+    <article class="post-content"><h3 id="课程简介">课程简介</h3>
+<p>多旋翼无人机是一类可以垂直起降，空中悬停的小型无人机。它主要由动力系统，飞控系统，导航系统、通讯系统等几个部分组成。多旋翼无人机具有体积小、成本低、功能丰富、结构简单、可扩展性强等优点，是一类适用于高校本科生、研究生学习数学建模，飞行控制，系统辨识，数字滤波，嵌入式等知识内容的实验平台。</p>
+<p>课程通过对多旋翼无人机系统进行建模与仿真，设计飞行控制器，搭建软硬件平台，验证最终飞行效果。本课程教学由理论与实验教学两部分构成，其中理论部分主要介绍多旋翼无人机各组成部分的基本原理，实验部分主要通过多旋翼无人机开展控制类实验教学工作。</p>
+<p>韩亮老师自主开发了多种用于教学的实验内容，其中包括悬停控制实验，多无人机编队控制实验，无人机避障实验，视觉定位实验等。课程形式新颖。实践内容丰富，充分锻炼了学生的实践能力，获得了学生的一致好评。本课程的教学实践内容已多次向国内高校，国外高校以及多家企业进行了展示，获得了高度的评价。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><!-- raw HTML omitted --></td>
+<td></td>
+</tr>
+<tr>
+<td>&lt;img src=&rdquo;/media/pic/%e8%af%be%e7%a8%8b1.jpg&rdquo;</td>
+<td></td>
+</tr>
+<tr>
+<td>alt=&quot;无人机1&rdquo;/&gt; <!-- raw HTML omitted --></td>
+<td></td>
+</tr>
+<tr>
+<td><!-- raw HTML omitted -->多无人机室内编队教学实验1 <!-- raw HTML omitted --></td>
+<td></td>
+</tr>
+<tr>
+<td><!-- raw HTML omitted --></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<!-- raw HTML omitted -->
+<h3 id="课程通知">课程通知</h3>
+<p>1.<strong>北航无人机课程</strong></p>
+<p>上课时间：第3周-第12周（国庆期间不上课） 周四8,9节（3:50-5:15）</p>
+<p>上课地点：教学区2号楼218</p>
+<p>2.<strong>北科无人机课程</strong></p>
+<p>上课时间：第3周-第14周（国庆期间不上课，第7周、第8周不上课） 周四6,7节（2:00-3:35）</p>
+<p>上课地点：教学区2号楼218</p>
+<h3 id="项目设计">项目设计</h3>
+<table>
+<thead>
+<tr>
+<th align="center">2017-2018秋季 A班</th>
+<th align="center">2017-2018秋季B班</th>
+<th align="center">2017-2018春季 A班</th>
+<th align="center">2017-2018春季 B班</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">共享无人机</td>
+<td align="center">电力巡检无人机</td>
+<td align="center">基于无人机的精灵捕捉器</td>
+<td align="center">环境监测无人机</td>
+</tr>
+<tr>
+<td align="center">山火监控无人机</td>
+<td align="center">农业植保无人机</td>
+<td align="center">多功能救援无人机</td>
+<td align="center">群体行为监测无人机</td>
+</tr>
+<tr>
+<td align="center">交通检测多功能无人机</td>
+<td align="center">文件传送助手无人机</td>
+<td align="center">野外生命搜救无人机设计</td>
+<td align="center">电力巡检无人机</td>
+</tr>
+<tr>
+<td align="center">用于民航客机维护的无人机</td>
+<td align="center">交通监测四旋翼无人机</td>
+<td align="center">救灾型红外勘测无人机</td>
+<td align="center">勘探检测无人机</td>
+</tr>
+<tr>
+<td align="center">矿难救援无人机</td>
+<td align="center">可疑包裹转移无人机</td>
+<td align="center">遥控飞行炸弹单轴无人机</td>
+<td align="center">铁轨巡线无人机</td>
+</tr>
+<tr>
+<td align="center">森林火灾预警六旋翼无人机</td>
+<td align="center">勘探侦测无人机</td>
+<td align="center">长航时混合动力无人机</td>
+<td align="center">基于视觉的无人机</td>
+</tr>
+<tr>
+<td align="center">智能浮空无人机</td>
+<td align="center">灾后救援无人机</td>
+<td align="center">基于机器视觉车载无人机</td>
+<td align="center">大负载多功能无人机</td>
+</tr>
+</tbody>
+</table>
+</article>
+    <footer class="post-footer">
+      
+      <p class="post-copyright">
+        Copyright 2018 of Liang HanThis post was published <strong>701</strong> days ago, content in the post may be inaccurate, even wrong now, please take risk yourself.
+      </p>
+    </footer>
+    
+      
+    
+  </section>
+  <footer class="site-footer">
+  <p>© 2017-2020 韩亮</p>
+  <p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
+  
+</footer>
+
+
+
+<script async src="//cdn.bootcss.com/video.js/6.2.8/alt/video.novtt.min.js"></script>
+<script async src="//cdn.bootcss.com/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      displayMath: [['$$','$$'], ['\[','\]']],
+      processEscapes: true,
+      processEnvironments: true,
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      TeX: { equationNumbers: { autoNumber: "AMS" },
+      extensions: ["AMSmath.js", "AMSsymbols.js"] }
+    }
+  });
+</script>
+<script type="text/x-mathjax-config">
+  // Fix <code> tags after MathJax finishes running. This is a
+  // hack to overcome a shortcoming of Markdown. Discussion at
+  // https://github.com/mojombo/jekyll/issues/199
+  MathJax.Hub.Queue(() => {
+    MathJax.Hub.getAllJax().map(v => v.SourceElement().parentNode.className += ' has-jax');
+  });
+</script>
+
+<script src="https://rk35ct.coding-pages.com/js/bundle.js"></script>
+
+
+
+
+  </body>
+</html>
