@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 韩亮</title>
-    <link>https://rk35ct.coding-pages.com/post/</link>
-    <description>Recent content in Posts on 韩亮</description>
+    <title>Post2s on 韩亮</title>
+    <link>https://rk35ct.coding-pages.com/post2/</link>
+    <description>Recent content in Post2s on 韩亮</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright 2018 of Liang Han</copyright>
     <lastBuildDate>Tue, 29 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rk35ct.coding-pages.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rk35ct.coding-pages.com/post2/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>多旋翼无人机</title>
-      <link>https://rk35ct.coding-pages.com/post/%E5%A4%9A%E6%97%8B%E7%BF%BC%E6%97%A0%E4%BA%BA%E6%9C%BA/</link>
-      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rk35ct.coding-pages.com/post/%E5%A4%9A%E6%97%8B%E7%BF%BC%E6%97%A0%E4%BA%BA%E6%9C%BA/</guid>
-      <description>多旋翼无人机是一类可以垂直起降，空中悬停的小型无人机。它主要由动力系统，飞控系统，导航系统、通讯系统等几个部分组成。多旋翼无人机具有体积小、成本低、功能丰富、结构简单、可扩展性强等优点，是一类适用于高校本科生、研究生学习数学建模，飞行控制，系统辨识，数字滤波，嵌入式等知识内容的实验平台。</description>
-    </item>
     
     <item>
       <title>多旋翼无人机</title>
@@ -32,29 +23,11 @@
     
     <item>
       <title>工业科学</title>
-      <link>https://rk35ct.coding-pages.com/post/%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6/</link>
-      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rk35ct.coding-pages.com/post/%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6/</guid>
-      <description>工业科学课程是工程师学位培养的特色课程，具有多学科交叉综合的特点，重点培养和提高学生分析和解决复杂问题的能力，包括信息获取和筛选能力、综合分析能力、设计和创新能力以及实践动手能力等，具有很强的综合性、设计性和创新性。工业科学实验课程的教学设备一般直接取自工业生产或消费领域的实际系统或简化后的系统。</description>
-    </item>
-    
-    <item>
-      <title>工业科学</title>
       <link>https://rk35ct.coding-pages.com/post2/%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rk35ct.coding-pages.com/post2/%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6/</guid>
       <description>工业科学课程是工程师学位培养的特色课程，具有多学科交叉综合的特点，重点培养和提高学生分析和解决复杂问题的能力，包括信息获取和筛选能力、综合分析能力、设计和创新能力以及实践动手能力等，具有很强的综合性、设计性和创新性。工业科学实验课程的教学设备一般直接取自工业生产或消费领域的实际系统或简化后的系统。</description>
-    </item>
-    
-    <item>
-      <title>智能机器人</title>
-      <link>https://rk35ct.coding-pages.com/post/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
-      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rk35ct.coding-pages.com/post/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA/</guid>
-      <description>本课程基于LEGO Mindstorm EV3机器人，通过实现对机器人的建模和仿真分析，计算机控制机器人速度和位移，自动避障等理论和实践环节，掌握和实际工业控制系统内容相关的基础理论和实践知识，弥补学生的工程能力不足问题。</description>
     </item>
     
     <item>
