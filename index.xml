@@ -20,7 +20,8 @@
       <guid>https://rk35ct.coding-pages.com/backgroud/</guid>
       <description>教育背景 2017.03 北京航空航天大学自动化科学与电气工程学院 博士
 2014.09 美国密歇根大学航天工程学院 国家公派
-工作经历 2020.06 - 至今 北京航空航天大学中法工程师学院 院长助理
+工作经历 2020.09 - 至今 北京航空航天大学中法集群智能实验室负责人
+2020.06 - 至今 北京航空航天大学中法工程师学院 院长助理
 2018.09 - 至今 北京航空航天大学中法无人机实验室负责人
 2017.09 - 至今 北京航空航天大学中法工程师学院教师
 学术兼职 北京市卓越工程师高校联盟 副秘书长
@@ -31,7 +32,7 @@ IEEE Member
 Aerospace Science and Technology等期刊审稿人
 American Control Conference等会议审稿人
 主讲课程 无人机、智能机器人、工业科学
-研究方向  多飞行器集群智能 无人机导航与控制 视觉与目标跟踪 人工智能应用（强化学习、深度学习） 大规模分布式仿真  奖励荣誉  中国空军无人机集群智能挑战赛 优胜奖 北京航空航天大学青年拔尖人才 全国高校智能硬件创新创业大赛 全国冠军 北京航空航天大学优秀学术论文  学术报告 2018 IEEE Guidance, Navigation and Control Conference Oral Sessions- Xiamen</description>
+研究方向  多飞行器集群智能 无人机导航与控制 视觉与目标跟踪 大规模分布式仿真 人工智能在航空航天的应用  奖励荣誉  CICC科学技术进步一等奖 中国产学研合作创新成果奖二等奖 中国空军无人机集群智能挑战赛 优胜奖 北京航空航天大学青年拔尖人才 全国高校智能硬件创新创业大赛 全国冠军 北京航空航天大学优秀学术论文  学术报告 2018 IEEE Guidance, Navigation and Control Conference Oral Sessions- Xiamen</description>
     </item>
     
     <item>
@@ -69,32 +70,6 @@ American Control Conference等会议审稿人
     </item>
     
     <item>
-      <title>相关资料</title>
-      <link>https://rk35ct.coding-pages.com/ref_documents/</link>
-      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rk35ct.coding-pages.com/ref_documents/</guid>
-      <description> 论文资料  北航中法-韩亮-Latex入门简介.pdf
- Latex符号对应表.pdf
- Latex经典学习手册.zip
-  毕设资料  2018年毕设题目
- 2017年毕设题目
- 无人机集群智能技术资料
- 无人机导航定位技术资料
-  创新课题  法国奥林匹克工程科学竞赛介绍
- 创新项目-基于视觉的多无人机编队控制系统应用
- 创新项目-基于GPS的多无人机协同控制系统应用
- 创新项目-基于树莓派与乐高的协同控制技术应用
- 创新项目-基于UWB的多无人车协同控制应用
- 创新项目-基于神经臂环的自动控制技术研究
- 创新项目-基于体感手套的自动控制技术研究
- 创新项目-小型激光雷达视觉技术研究与应用
- 创新项目-多摄像头目标跟踪技术研究与应用
- 创项项目-无人机/无人车虚拟仿真应用平台开发
-  </description>
-    </item>
-    
-    <item>
       <title>无人机实验室</title>
       <link>https://rk35ct.coding-pages.com/lab/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
@@ -104,8 +79,8 @@ American Control Conference等会议审稿人
  多飞行器集群智能
  无人机导航与控制
  视觉与目标跟踪
- 人工智能应用（强化学习、深度学习）
  大规模分布式仿真
+ 人工智能在航空航天的应用
    实验设备 无人机设备 本实验室拥有非常完备的实验室设备。例如：Optitrack高精度三维运动捕捉系统、UWB超宽带定位系统、大疆无人机、法国Parrot无人机、Pixhawk开源飞控、开源无人机，半实物仿真平台以及各类自动化设备等，软硬件资源丰富。
   Dobby 和 大疆精灵无人机     Parrot无人机 和 Pixhawk控制器                                       本实验室内可进行无人机试飞与调试，设置了布有安全防护网的试飞区域以及可在地面上调试飞机的装置。实验室内还配置测试平台，高性能电脑若干，用来进行对控制系统、地面站、定位系统等模块的软件开发；同时，还有专门用来组装、修理的工作区域，包括实验台、工具架、专业工具等。</description>
     </item>
@@ -150,6 +125,29 @@ American Control Conference等会议审稿人
       <description> 课程简介 自动控制系统是工业系统的重要组成部分，自动控制原理及自动控制系统的设计和实现是通用工程师必备的基本能力之一。本课程基于LEGO Mindstorm EV3机器人，通过实现对机器人的建模和仿真分析，计算机控制机器人速度和位移，自动避障等理论和实践环节，掌握和实际工业控制系统内容相关的基础理论和实践知识，弥补学生的工程能力不足问题。
 本课程教学由理论教学和实践教学两部分组成。理论部分侧重于经典和现代控制理论原理和计算机控制实现方法的学习，实践教学则以LEGO机器人系统为对象开展教学工作。
 课程特色                     </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rk35ct.coding-pages.com/ref_documents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rk35ct.coding-pages.com/ref_documents/</guid>
+      <description> title: &amp;ldquo;相关资料&amp;rdquo; date: &amp;ldquo;2018-07-11&amp;rdquo; layout: &amp;ldquo;about&amp;rdquo; menu: &amp;ldquo;main&amp;rdquo; weight: 60
+论文资料  北航中法-韩亮-Latex入门简介.pdf
+ Latex符号对应表.pdf
+ Latex经典学习手册.zip
+  创新课题  法国奥林匹克工程科学竞赛介绍
+ 创新项目-基于视觉的多无人机编队控制系统应用
+ 创新项目-基于GPS的多无人机协同控制系统应用
+ 创新项目-基于树莓派与乐高的协同控制技术应用
+ 创新项目-基于UWB的多无人车协同控制应用
+ 创新项目-基于神经臂环的自动控制技术研究
+ 创新项目-基于体感手套的自动控制技术研究
+ 创新项目-小型激光雷达视觉技术研究与应用
+ 创新项目-多摄像头目标跟踪技术研究与应用
+ 创项项目-无人机/无人车虚拟仿真应用平台开发
+  </description>
     </item>
     
   </channel>
